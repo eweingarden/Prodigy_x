@@ -1,5 +1,5 @@
 # Prodigy_x
-open prodigy log in choose at home or school select world go to the adress bar delete all text in there type javascript: and paste the code
+open prodigy log in choose at home or school select world go to the adress bar delete all text in there and paste the code
 
 
 
